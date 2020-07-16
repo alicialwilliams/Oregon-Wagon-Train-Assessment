@@ -1,4 +1,4 @@
-
+//Note:  Help from Zach, Erin, and Sulaimon
 class Wagon {
     constructor (capacity, passengers) {
         this.capacity = capacity
